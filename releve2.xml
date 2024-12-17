@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<releve xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="file:/C:/Users/pc/Desktop/MASTER/XML/releve/releve1.xsd" RIB="1122334489">
+    <dateReleve>2019-12-08</dateReleve>
+    <solde>9000</solde>
+    <operations dateDebut="2014-09-16" dateFin="2014-12-23">
+        <operation date="2014-09-16" montant="4500" type="CREDIT" description="test1"/>
+        <operation date="2014-09-16" montant="4000" type="DEBIT" description="test1"/>
+        <operation date="2014-09-16" montant="2500" type="CREDIT" description="test1"/>
+        <operation date="2014-09-16" montant="1000" type="DEBIT" description="test1"/>
+        <operation date="2014-09-16" montant="4512" type="CREDIT" description="test1"/>
+        <operation date="2014-09-16" montant="7000" type="CREDIT" description="test1"/>
+        <operation date="2014-09-16" montant="30000" type="DEBIT" description="test1"/>
+        <operation date="2014-09-16" montant="41000" type="CREDIT" description="test1"/>
+        <operation date="2014-09-16" montant="1500" type="DEBIT" description="test1"/>
+        <operation date="2014-09-16" montant="6800" type="CREDIT" description="test1"/>
+    </operations>
+</releve>

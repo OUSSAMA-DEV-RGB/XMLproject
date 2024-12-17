@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE releve SYSTEM "releve.dtd">
+<releve RIB="">
+    <dateReleve></dateReleve>
+    <solde></solde>
+    <operations dateDebut="" dateFin="">
+        <operation date="" montant="" description=""/>
+    </operations>
+</releve>
